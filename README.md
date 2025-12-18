@@ -105,10 +105,10 @@ Contiene las vistas principales de la aplicación como la portada o páginas de 
 
 
 ### 🏠 Pantalla principal
-![Home](src/assets/images/screenshot/home.jpg)
+[![home.jpg](https://i.postimg.cc/t4xLbQk3/home.jpg)](https://postimg.cc/jDR861G2)
 
 ### 💍 Colecciones
-![Detalle](src/assets/images/screenshot/colecciones.jpg)
+[![colecciones.jpg](https://i.postimg.cc/nVqjXCLw/colecciones.jpg)](https://postimg.cc/dDttXQr8)
 
 
 
